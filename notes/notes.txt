@@ -1,0 +1,3 @@
+# Functions as delete and so on are in higher component like App.js
+
+# States get past down, actions get past up
